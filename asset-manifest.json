@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bubu/static/css/main.12f9f301.css",
+    "main.js": "/bubu/static/js/main.78a16ab1.js",
+    "index.html": "/bubu/index.html",
+    "main.12f9f301.css.map": "/bubu/static/css/main.12f9f301.css.map",
+    "main.78a16ab1.js.map": "/bubu/static/js/main.78a16ab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f9f301.css",
+    "static/js/main.78a16ab1.js"
+  ]
+}
